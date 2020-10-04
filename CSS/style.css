@@ -1,0 +1,18 @@
+.navbar ul {
+    margin:0 auto;
+    font-size: 1.3em;
+}
+
+
+.col-md{
+	text-align: center;
+}
+.fit-image{
+width: 100%;
+object-fit: cover;
+height: 300px; /* only if you want fixed height */
+}
+footer{
+	text-align: center;
+	margin-top:3%;
+}
