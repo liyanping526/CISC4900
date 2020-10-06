@@ -32,6 +32,16 @@ footer{
 	margin-top:3%;
 }
 
+.footer a:hover{
+	color: #7d7d7d;
+	text-decoration: underline 1px;
+	transition: color 0.5s;
+}
+
+.footer a{
+	color: black;
+}
+
 .title-row{
 	text-decoration: underline;
 	font-weight: bold;
